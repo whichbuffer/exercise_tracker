@@ -1,3 +1,5 @@
+## Exercise tracker application 
+
 ## Tech Stack
 * MongoDB
 * Express 
